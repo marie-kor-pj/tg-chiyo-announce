@@ -1,7 +1,7 @@
 # tg-chiyo-announce
 ### 이 README 파일은 [Marie 한글화 프로젝트](https://github.com/marie-kor-pj/tgbot-kor-pj)의 결과물 [치요봇](https://t.me/kor_marie_bot)의 알림판입니다.
 
-* 현재 치요봇 상태 : **셧다운**
+* 현재 치요봇 상태 : **헤로쿠로 임시 가동중**
 
 * 잠수함 업데이트에 대한 기록은 **없습니다**.
 
